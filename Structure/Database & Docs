@@ -1,0 +1,10 @@
+# Create database folders
+mkdir -p database/migrations
+mkdir -p database/seeds
+
+# Create documentation
+mkdir docs
+
+# Create other necessary folders
+mkdir uploads
+mkdir logs
