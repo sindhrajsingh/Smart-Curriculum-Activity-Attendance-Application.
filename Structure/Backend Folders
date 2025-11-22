@@ -1,0 +1,8 @@
+# Create backend structure
+mkdir -p backend/config
+mkdir -p backend/models
+mkdir -p backend/routes
+mkdir -p backend/controllers
+mkdir -p backend/middleware
+mkdir -p backend/utils
+mkdir -p backend/services
