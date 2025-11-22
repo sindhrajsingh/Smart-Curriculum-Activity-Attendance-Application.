@@ -1,0 +1,7 @@
+# Create main project directory
+mkdir AcademicaX
+cd AcademicaX
+
+# Initialize git repository
+git init
+echo "# AcademicaX - Academic Management System" > README.md
