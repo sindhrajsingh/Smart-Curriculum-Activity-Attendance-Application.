@@ -1,0 +1,7 @@
+# Create React frontend
+npx create-react-app frontend
+
+# Create additional frontend folders
+cd frontend/src
+mkdir components pages services context utils styles hooks
+cd ../..
