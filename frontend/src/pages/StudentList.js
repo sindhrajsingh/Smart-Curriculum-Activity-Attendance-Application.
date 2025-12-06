@@ -1,12 +1,8 @@
 import React from 'react';
+import Students from './Students'; // adjust path if your Students.js location is different
 
 const StudentList = () => {
-  return (
-    <div>
-      <h1>Students</h1>
-      <p>Student management UI coming soon.</p>
-    </div>
-  );
+  return <Students />;
 };
 
 export default StudentList;
